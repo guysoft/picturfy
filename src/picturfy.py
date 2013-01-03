@@ -5,7 +5,7 @@ Created on Dec 29, 2012
 
 @author: Guy Sheffer <guysoft at gmail dot com>
 """
-
+__version__ = "0.1"
 import os
 import tempfile
 ## {{{ http://code.activestate.com/recipes/496837/ (r1)
