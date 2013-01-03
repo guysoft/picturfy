@@ -56,6 +56,7 @@ if __name__ == '__main__':
     if len(sys.argv) != 4:
         print "Usage: " + sys.argv[0] + " <URL> <WIDTH> <PNG>"
         print "eg: "+ sys.argv[0] + " www.google.com 500 google.png"
+        sys.exit()
     url = sys.argv[1]
     width = sys.argv[2]
     png = sys.argv[3]
