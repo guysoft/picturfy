@@ -4,7 +4,7 @@
 
 ### Ubuntu
 
-> apt-get install xvfb wkhtmltopdf imagemagick
+> apt-get install xvfb wkhtmltopdf imagemagick libicu48
 
 
 # run
